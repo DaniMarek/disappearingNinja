@@ -1,0 +1,17 @@
+*{
+	/*background-color: black;*/
+}
+#container{
+	background-image: url("Starry_sky_1.png");
+	background-size: cover;
+	padding: 150px;
+}
+.mars{
+	width: 1500px;
+	padding:20px;
+}
+.mars img{
+	width: 150px;
+	height: 200px;
+	margin: 16px;
+}
